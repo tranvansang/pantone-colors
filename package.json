@@ -1,6 +1,6 @@
 {
   "name": "pantone-colors",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Pantone color list https://www.pantone-colours.com/",
   "main": "index.js",
   "module": "index.es.js",
