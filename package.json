@@ -1,0 +1,19 @@
+{
+  "name": "pantone-colors",
+  "version": "1.0.0",
+  "description": "Pantone color list https://www.pantone-colours.com/",
+  "main": "index.js",
+  "module": "index.es.js",
+  "repository": "https://github.com/tranvansang/pantone-colors",
+  "author": "Tran Sang",
+  "files": [
+    "index.js",
+    "index.es.js",
+    "index.d.ts"
+  ],
+  "scripts": {
+    "build": "node build.mjs"
+  },
+  "license": "MIT",
+  "private": false
+}
