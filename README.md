@@ -416,7 +416,7 @@ In code: `bg-pantone-290`, `text-pantone-500`, etc.
 	<div style="background-color: #d1bf91;">ID: 466<br/> HEX: '#d1bf91'<br/> RGB: rgb(209,191,145)</div>
 	<div style="background-color: #ddcca5;">ID: 467<br/> HEX: '#ddcca5'<br/> RGB: rgb(221,204,165)</div>
 	<div style="background-color: #e2d6b5;">ID: 468<br/> HEX: '#e2d6b5'<br/> RGB: rgb(226,214,181)</div>
-	class="dark" style="background-color: #603311;" <div>ID: 469<br/> HEX: '#603311'<br/> RGB: rgb(96,51,17)</div>
+	<div style="background-color: #603311;" class="dark">ID: 469<br/> HEX: '#603311'<br/> RGB: rgb(96,51,17)</div>
 	<div style="background-color: #9b4f19;" class="dark">ID: 470<br/> HEX: '#9b4f19'<br/> RGB: rgb(155,79,25)</div>
 	<div style="background-color: #bc5e1e;" class="dark">ID: 471<br/> HEX: '#bc5e1e'<br/> RGB: rgb(188,94,30)</div>
 	<div style="background-color: #eaaa7a;">ID: 472<br/> HEX: '#eaaa7a'<br/> RGB: rgb(234,170,122)</div>
