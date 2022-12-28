@@ -2,7 +2,7 @@
 
 ## Usage
 
-- NPM package name: `pantone-colors`.
+- NPM package name: [pantone-colors](https://www.npmjs.com/package/pantone-colors).
 - Default export: `{[colorId]: colorInRGB}`.
 - Named export: `export const isDark {[colorId]: boolean}`.
 
