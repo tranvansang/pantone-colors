@@ -935,12 +935,12 @@ exports.default = ${color}
 exports.isDark = ${isDark}
 `)
 
-await writeFile('index.es.js', `
+await writeFile('index.mjs', `
 export default ${color}
 export const isDark = ${isDark}
 `)
 
-await writeFile('index.d.ts', `
+for (const name of ['index.d.ts', 'index.d.mts']) await writeFile(name, `
 declare const _default: ${color}
 export default _default
 export declare const isDark: ${isDark}
