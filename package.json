@@ -4,7 +4,7 @@
   "description": "Pantone color list https://www.pantone-colours.com/",
   "main": "index.js",
   "repository": "https://github.com/tranvansang/pantone-colors",
-  "author": "Tran Sang",
+  "author": "Sang Tran <t@sang.jp>",
   "exports": {
     ".": {
       "import": "./index.mjs",
